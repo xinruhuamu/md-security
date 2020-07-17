@@ -11,4 +11,5 @@ spring:
     hikari:
       maximum-pool-size: 10
       minimum-idle: 2
-      pool-name: MyHikariCP¬
+      pool-name: MyHikariCP
+
